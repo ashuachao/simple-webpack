@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ashuachao/simple-webpack/issues"
   },
-  "homepage": "https://github.com/ashuachao/simple-webpack#readme"
+  "homepage": "https://github.com/ashuachao/simple-webpack#readme",
+  "dependencies": {
+    "escodegen": "^1.8.1",
+    "esprima": "^4.0.0"
+  }
 }
